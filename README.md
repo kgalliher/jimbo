@@ -39,24 +39,3 @@
 - Assign it to me
     
     ![image](https://user-images.githubusercontent.com/3092265/112069007-435c3080-8b28-11eb-8e0c-b12904fe50eb.png)
-
-    
-- Primitive data types
-    - everything is an object
-- Data structures
-    - lists
-    - dictionaries
-    - tuples
-- Functions
-    - parameters
-    - scope
-    - DOM
-- Getting data from the web
-    - understanding REST APIs
-    - http methods
-    - requests module
-- Web scraping
-    - html
-    - DOM navigation
-    - ethics
-    - getting data
