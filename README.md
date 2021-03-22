@@ -23,12 +23,12 @@
     - ```git add <some other file>```
 
 - Commit your edits
-    - ```git commit -m "brief description of what you did"
+    - ```git commit -m "brief description of what you did"```
 
     ![image](https://user-images.githubusercontent.com/3092265/112068640-8c5fb500-8b27-11eb-8644-2888d731163f.png)
 
 - Push your edits from your branch to the remote main branch
-    - ```git push origin <your_branch_name>
+    - ```git push origin <your_branch_name>```
 
     ![image](https://user-images.githubusercontent.com/3092265/112068677-aac5b080-8b27-11eb-86aa-303e32c2fa46.png)
 
